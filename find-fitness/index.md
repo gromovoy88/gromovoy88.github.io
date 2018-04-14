@@ -25,15 +25,15 @@ _Aplikacja może być używana przez zwykłych użytkowników którzy chcą znal
 ### Cele projektu:
 **Głównym celem jest przyciągnięcie większej liczby osób do sportu. A nie mniej ważnymi celami są: ułatwienie wyszukiwania interesujących treningów dla użytkowników,  bardziej efektywne zarządzanie czasem i nowoczesne podejście do ćwiczeń sportem.**
 
-####Skład zespołu:
+#### Skład zespołu:
 * Yaroslav Hromovyi, KrDUIs1011, 209670;
 * Yevhenii Butko, KrDUIs1011, 207843;
 
-####Link do repozytorium:
+#### Link do repozytorium:
 https://github.com/gromovoy88/find-fitness
 
-####Link do witryny:
+#### Link do witryny:
 https://gromovoy88.github.io/find-fitness/
 
-####Link do trello:
+#### Link do trello:
 https://trello.com/findfitness
