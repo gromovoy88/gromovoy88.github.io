@@ -4,7 +4,7 @@ layout: default
 
 # FindFitness -
 
-** aplikacja dla poszuka sal i różnych treningów w pobliżu użytnikownika, z możliwością zapisu i opłaty przez web-aplikacją. **
+**aplikacja dla poszuka sal i różnych treningów w pobliżu użytnikownika, z możliwością zapisu i opłaty przez web-aplikacją.**
 
 ### Funkcjonalność:
 _Aplikacja może być używana przez zwykłych użytkowników którzy chcą znaleźć trening albo przez trenerzy czy fitness sali który oferują treningi._
@@ -24,4 +24,4 @@ _Aplikacja może być używana przez zwykłych użytkowników którzy chcą znal
 
 ### Cele projektu:
 
-** Głównym celem jest przyciągnięcie większej liczby osób do sportu. A nie mniej ważnymi celami są: ułatwienie wyszukiwania interesujących treningów dla użytkowników,  bardziej efektywne zarządzanie czasem i nowoczesne podejście do ćwiczeń sportem. **
+**Głównym celem jest przyciągnięcie większej liczby osób do sportu. A nie mniej ważnymi celami są: ułatwienie wyszukiwania interesujących treningów dla użytkowników,  bardziej efektywne zarządzanie czasem i nowoczesne podejście do ćwiczeń sportem.**
