@@ -42,11 +42,8 @@ https://trello.com/findfitness
 https://app.moqups.com/dnonadnedna1@gmail.com/VectXA0Mqv/view
 
 
-
-####
-
-
-
+#### Prototyp:
+![Image alt](https://github.com/fatal41k/find-fitness-jpg/raw/master/findfitness.jpg)
 
 
 
