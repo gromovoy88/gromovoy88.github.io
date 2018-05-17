@@ -41,6 +41,15 @@ https://trello.com/findfitness
 #### Link do prototypu:
 https://app.moqups.com/dnonadnedna1@gmail.com/VectXA0Mqv/view
 
+
+
+####
+
+
+
+
+
+
 ### Podział prac:
 **Yaroslav Hromovyi : Application's visual page , refining the application's functionality, scripts for visual elements of the application, firebase, android app  version.
 Yevhenii Butko : Application visual page, scripts for visual elements of the application, html code, application website.**
@@ -66,8 +75,6 @@ _Yaroslav Hromovyi (łączna ilość godzin: 52h):_
 *	Fixed user register  - [1h];
 *	Adding user view prototype - [2h];
 *	Added: android port -  [8h];
-
-
 
 
 
